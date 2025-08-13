@@ -1,0 +1,10 @@
+/* style.css */
+body {
+  background-color: #9c3e3e;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(160, 160, 171);
+  text-align: left;
+}
